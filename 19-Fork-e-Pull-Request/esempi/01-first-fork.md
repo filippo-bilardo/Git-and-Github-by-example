@@ -739,6 +739,6 @@ La tua prima contribuzione è ora parte permanent del progetto, helping develope
 ## 🧭 Navigazione
 
 - [📖 Esempi Pratici](../README.md#esempi-pratici)
-- [⬅️ Guide Teoriche](../guide/04-upstream-sync.md)
+- [⬅️ Guide Teoriche](../04-upstream-sync.md)
 - [➡️ Contributing to Open Source](./02-contributing-opensource.md)
 - [🏠 Home Modulo](../README.md)

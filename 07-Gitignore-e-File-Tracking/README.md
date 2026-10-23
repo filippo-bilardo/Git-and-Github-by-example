@@ -15,10 +15,10 @@ Al termine di questo modulo sarai in grado di:
 ## 📚 Indice del Modulo
 
 ### Guide Teoriche
-1. [**Introduzione a .gitignore**](./guide/01-introduzione-gitignore.md) - Concetti base e importanza
-2. [**Pattern e Sintassi**](./guide/02-pattern-sintassi.md) - Regole e pattern matching
-3. [**Template e Best Practices**](./guide/03-template-best-practices.md) - Template comuni e buone pratiche
-4. [**Gestione File Tracciati**](./guide/04-gestione-file-tracciati.md) - Rimuovere file già in tracking
+1. [**Introduzione a .gitignore**](./01-introduzione-gitignore.md) - Concetti base e importanza
+2. [**Pattern e Sintassi**](./02-pattern-sintassi.md) - Regole e pattern matching
+3. [**Template e Best Practices**](./03-template-best-practices.md) - Template comuni e buone pratiche
+4. [**Gestione File Tracciati**](./04-gestione-file-tracciati.md) - Rimuovere file già in tracking
 
 ### Esempi Pratici
 1. [**Configurazione Progetto Web**](./esempi/01-progetto-web.md) - .gitignore per progetti frontend

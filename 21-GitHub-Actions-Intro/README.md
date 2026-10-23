@@ -31,25 +31,25 @@ Al termine di questo modulo sarai in grado di:
 ## 📚 Contenuti del Modulo
 
 ### 📖 Guide Teoriche
-1. **[01 - CI/CD Concepts](./guide/01-cicd-concepts.md)**
+1. **[01 - CI/CD Concepts](./01-cicd-concepts.md)**
    - Fondamenti CI/CD e DevOps practices
    - Pipeline design e deployment strategies  
    - Monitoring, testing, e quality gates
    - Health checks e rollback automation
 
-2. **[02 - GitHub Actions Basics](./guide/02-actions-basics.md)**
+2. **[02 - GitHub Actions Basics](./02-actions-basics.md)**
    - Syntax completa e workflow anatomy
    - Events, triggers, runners, e job management
    - Variables, secrets, artifacts, e caching
    - Matrix strategies e debugging techniques
 
-3. **[03 - Workflow Configuration](./guide/03-workflow-configuration.md)**
+3. **[03 - Workflow Configuration](./03-workflow-configuration.md)**
    - Environment management e approval workflows
    - Reusable workflows e composite actions
    - Security best practices e OIDC authentication
    - Multi-region deployment e feature flags
 
-4. **[04 - Marketplace Actions](./guide/04-marketplace-actions.md)**
+4. **[04 - Marketplace Actions](./04-marketplace-actions.md)**
    - Essential marketplace actions ecosystem
    - Custom action development (composite e JavaScript)
    - Security practices e action publishing

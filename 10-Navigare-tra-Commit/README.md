@@ -35,11 +35,11 @@ Sarai in grado di navigare confidentemente nella cronologia Git per debugging, t
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Concetti di Navigazione](./guide/01-concetti-navigazione.md)
-2. [02 - Git Checkout vs Switch](./guide/02-checkout-vs-switch.md)
-3. [03 - Detached HEAD State](./guide/03-detached-head.md)
-4. [04 - Riferimenti e Hash](./guide/04-riferimenti-hash.md)
-5. [05 - Navigazione Sicura](./guide/05-navigazione-sicura.md)
+1. [01 - Concetti di Navigazione](./01-concetti-navigazione.md)
+2. [02 - Git Checkout vs Switch](./02-checkout-vs-switch.md)
+3. [03 - Detached HEAD State](./03-detached-head.md)
+4. [04 - Riferimenti e Hash](./04-riferimenti-hash.md)
+5. [05 - Navigazione Sicura](./05-navigazione-sicura.md)
 
 ### Esempi Pratici
 1. [01 - Esplorazione Base](./esempi/01-esplorazione-base.md)

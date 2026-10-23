@@ -212,17 +212,17 @@ Il workflow sicuro prevede:
 
 ### Se hai sbagliato le domande 1-3:
 **Focus sui concetti base**
-- Rileggi: [01 - Cos'è il Controllo di Versione](../guide/01-controllo-versione.md)
-- Rileggi: [02 - Storia e Evoluzione](../guide/02-storia-evoluzione.md)
+- Rileggi: [01 - Cos'è il Controllo di Versione](../01-controllo-versione.md)
+- Rileggi: [02 - Storia e Evoluzione](../02-storia-evoluzione.md)
 
 ### Se hai sbagliato le domande 4-6:
 **Focus sulla storia e best practices**
-- Rileggi: [03 - Git vs Altri Sistemi](../guide/03-git-vs-altri.md)
+- Rileggi: [03 - Git vs Altri Sistemi](../03-git-vs-altri.md)
 - Approfondisci la security in Git
 
 ### Se hai sbagliato le domande 7-8:
 **Focus sui concetti Git specifici**
-- Rileggi: [04 - Concetti Fondamentali](../guide/04-concetti-fondamentali.md)
+- Rileggi: [04 - Concetti Fondamentali](../04-concetti-fondamentali.md)
 - Prepararti per le esercitazioni pratiche
 
 ## 💡 Suggerimenti per Migliorare
@@ -250,7 +250,7 @@ Se hai ottenuto un buon punteggio, sei pronto per:
 
 Se invece vuoi ripassare:
 
-↩️ **[Guide Teoriche](../guide/)**
+↩️ **[Guide Teoriche](../)**
 
 ---
 

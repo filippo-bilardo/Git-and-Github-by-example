@@ -35,13 +35,13 @@ Avrai una comprensione concettuale solida del branching che ti preparerà per im
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Concetti Fondamentali](./guide/01-concetti-fondamentali.md)
-2. [02 - Cos'è un Branch](./guide/02-cos-e-branch.md)
-3. [03 - Struttura ad Albero Git](./guide/03-struttura-albero.md)
-4. [04 - HEAD e Puntatori](./guide/04-head-puntatori.md)
-5. [05 - Branch Locali vs Remoti](./guide/05-locali-vs-remoti.md)
-6. [06 - Strategie di Branching](./guide/06-strategie-branching.md)
-7. [07 - Workflow Comuni](./guide/07-workflow-comuni.md)
+1. [01 - Concetti Fondamentali](./01-concetti-fondamentali.md)
+2. [02 - Cos'è un Branch](./02-cos-e-branch.md)
+3. [03 - Struttura ad Albero Git](./03-struttura-albero.md)
+4. [04 - HEAD e Puntatori](./04-head-puntatori.md)
+5. [05 - Branch Locali vs Remoti](./05-locali-vs-remoti.md)
+6. [06 - Strategie di Branching](./06-strategie-branching.md)
+7. [07 - Workflow Comuni](./07-workflow-comuni.md)
 
 ### Esempi Pratici
 1. [01 - Visualizzazione Branch](./esempi/01-visualizzazione-branch.md)

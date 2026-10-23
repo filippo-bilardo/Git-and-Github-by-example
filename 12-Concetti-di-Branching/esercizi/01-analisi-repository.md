@@ -424,8 +424,8 @@ EOF
 Se vuoi approfondire ulteriormente:
 
 ### Per migliorare l'analisi:
-- [Guida 06: Strategie Branching](../guide/06-strategie-branching.md)
-- [Guida 07: Workflow Comuni](../guide/07-workflow-comuni.md)
+- [Guida 06: Strategie Branching](../06-strategie-branching.md)
+- [Guida 07: Workflow Comuni](../07-workflow-comuni.md)
 
 ### Per esplorare di più:
 - Analizza repository nei tuoi linguaggi preferiti
@@ -454,4 +454,4 @@ git clone --filter=blob:none [url]
 ```
 
 ---
-[⬅️ Guide](../guide/README.md) | [🏠 Modulo 12](../README.md) | [➡️ Esercizio 02](./02-progettazione-branch.md)
+[⬅️ Guide](../README.md) | [🏠 Modulo 12](../README.md) | [➡️ Esercizio 02](./02-progettazione-branch.md)

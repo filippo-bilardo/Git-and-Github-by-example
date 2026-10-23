@@ -51,11 +51,11 @@ git pull --rebase            # Risolvi divergenze
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Diagnostica Problemi](./guide/01-diagnostica-problemi.md)
-2. [02 - Recovery Strategies](./guide/02-recovery-strategies.md)
-3. [03 - Authentication Issues](./guide/03-authentication-issues.md)
-4. [04 - Performance Problems](./guide/04-performance-problems.md)
-5. [05 - Emergency Procedures](./guide/05-emergency-procedures.md)
+1. [01 - Diagnostica Problemi](./01-diagnostica-problemi.md)
+2. [02 - Recovery Strategies](./02-recovery-strategies.md)
+3. [03 - Authentication Issues](./03-authentication-issues.md)
+4. [04 - Performance Problems](./04-performance-problems.md)
+5. [05 - Emergency Procedures](./05-emergency-procedures.md)
 
 ### Esempi Pratici
 1. [01 - Common Scenarios](./esempi/01-common-scenarios.md)

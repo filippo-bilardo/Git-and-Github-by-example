@@ -226,11 +226,11 @@ git commit --amend -m "feat: add file1 with typo corrections"
 Se hai avuto difficoltà con alcune domande, rivedi questi argomenti:
 
 ### Per punteggi bassi (< 15):
-- [Guida 01: Commit Amend](../guide/01-commit-amend.md)
-- [Guida 02: Reset vs Revert](../guide/02-reset-vs-revert.md)
+- [Guida 01: Commit Amend](../01-commit-amend.md)
+- [Guida 02: Reset vs Revert](../02-reset-vs-revert.md)
 
 ### Per migliorare ulteriormente (15-20):
-- [Guida 05: Conventional Commits](../guide/05-conventional-commits.md)
+- [Guida 05: Conventional Commits](../05-conventional-commits.md)
 - [Esempio 02: Workflow Professionale](../esempi/02-workflow-professionale.md)
 
 ### Per perfezionare (> 20):

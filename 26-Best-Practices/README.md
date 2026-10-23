@@ -30,11 +30,11 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Commit Best Practices](./guide/01-commit-best-practices.md)
-2. [02 - Repository Structure](./guide/02-repository-structure.md)
-3. [03 - Team Workflows](./guide/03-team-workflows.md)
-4. [04 - Security Guidelines](./guide/04-security-guidelines.md)
-5. [05 - Performance Optimization](./guide/05-performance-optimization.md)
+1. [01 - Commit Best Practices](./01-commit-best-practices.md)
+2. [02 - Repository Structure](./02-repository-structure.md)
+3. [03 - Team Workflows](./03-team-workflows.md)
+4. [04 - Security Guidelines](./04-security-guidelines.md)
+5. [05 - Performance Optimization](./05-performance-optimization.md)
 
 ### Esempi Pratici
 1. [01 - Professional Setup](./esempi/01-professional-setup.md)

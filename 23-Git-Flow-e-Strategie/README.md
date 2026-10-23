@@ -30,10 +30,10 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Git Flow Explained](./guide/01-git-flow-explained.md)
-2. [02 - Release Management](./guide/02-release-management.md)
-3. [03 - Hotfix Strategy](./guide/03-hotfix-strategy.md)
-4. [04 - Workflow Comparison](./guide/04-workflow-comparison.md)
+1. [01 - Git Flow Explained](./01-git-flow-explained.md)
+2. [02 - Release Management](./02-release-management.md)
+3. [03 - Hotfix Strategy](./03-hotfix-strategy.md)
+4. [04 - Workflow Comparison](./04-workflow-comparison.md)
 
 ### Esempi Pratici
 1. [01 - Git Flow Implementation](./esempi/01-git-flow-implementation.md)

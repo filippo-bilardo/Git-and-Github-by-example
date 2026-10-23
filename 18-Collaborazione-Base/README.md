@@ -30,11 +30,11 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Team Setup](./guide/01-team-setup.md)
-2. [02 - Workflow Collaborativo](./guide/02-workflow-collaborativo.md)
-3. [03 - Issues e Tracking](./guide/03-issues-tracking.md)
-4. [04 - Comunicazione Efficace](./guide/04-comunicazione-efficace.md)
-5. [05 - Conflict Resolution](./guide/05-conflict-resolution.md)
+1. [01 - Team Setup](./01-team-setup.md)
+2. [02 - Workflow Collaborativo](./02-workflow-collaborativo.md)
+3. [03 - Issues e Tracking](./03-issues-tracking.md)
+4. [04 - Comunicazione Efficace](./04-comunicazione-efficace.md)
+5. [05 - Conflict Resolution](./05-conflict-resolution.md)
 
 ### Esempi Pratici
 1. [01 - Team Project Setup](./esempi/01-team-setup.md)

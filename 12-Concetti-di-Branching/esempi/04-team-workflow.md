@@ -588,7 +588,7 @@ git commit -m "specific change description"
 ## 🔗 Prossimi Passi
 
 - [Esercizio: Team Collaboration](../esercizi/01-strategy-selection.md)
-- [Guida: Workflow Comuni](../guide/06-workflow-comuni.md)
+- [Guida: Workflow Comuni](../06-workflow-comuni.md)
 
 ---
 

@@ -1289,7 +1289,7 @@ These maintainer skills are directly applicable to:
 - [🏠 Modulo 19 - Fork e Pull Request](../README.md)  
 - [⬅️ Esercizio 01 - Open Source Contribution](./01-opensource-contribution.md)
 - [📚 Esempi Pratici](../esempi/)
-- [📖 Guide Teoriche](../guide/)
+- [📖 Guide Teoriche](../)
 
 ---
 

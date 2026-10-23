@@ -30,10 +30,10 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - GitHub Issues](./guide/01-github-issues.md)
-2. [02 - Labels e Organization](./guide/02-labels-organization.md)
-3. [03 - GitHub Projects](./guide/03-github-projects.md)
-4. [04 - Automation](./guide/04-automation.md)
+1. [01 - GitHub Issues](./01-github-issues.md)
+2. [02 - Labels e Organization](./02-labels-organization.md)
+3. [03 - GitHub Projects](./03-github-projects.md)
+4. [04 - Automation](./04-automation.md)
 
 ### Esempi Pratici
 1. [01 - Issue Management](./esempi/01-issue-management.md)

@@ -414,7 +414,7 @@ Anche se non hai ancora imparato i branch:
 ## 🔄 Navigazione
 
 - [⬅️ Torna alla guida principale](../README.md)
-- [📖 Guide teoriche](../guide/)
+- [📖 Guide teoriche](../)
 - [💡 Esempi pratici](../esempi/)
 - [➡️ Prossimo esercizio: Creazione Portfolio](02-creazione-portfolio.md)
 

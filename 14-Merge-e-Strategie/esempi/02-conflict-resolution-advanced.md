@@ -942,8 +942,8 @@ echo "git mergetool"
 
 ## 📚 Riferimenti
 
-- [03-Recursive Merge](../guide/03-recursive-merge.md) - Approfondimenti su merge complessi
-- [06-Strategie Avanzate](../guide/06-strategie-avanzate.md) - Tecniche enterprise
+- [03-Recursive Merge](../03-recursive-merge.md) - Approfondimenti su merge complessi
+- [06-Strategie Avanzate](../06-strategie-avanzate.md) - Tecniche enterprise
 - [Esercizi](../esercizi/README.md) - Pratica guidata
 
 ---

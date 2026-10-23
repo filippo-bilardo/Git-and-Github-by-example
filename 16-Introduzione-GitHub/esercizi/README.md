@@ -23,6 +23,14 @@ Questi esercizi sono progettati per consolidare la comprensione di GitHub attrav
 
 ## 📚 Struttura degli Esercizi
 
+### 01 - Autenticazione SSH con GitHub
+
+**File**: [01-Autenticazione_ssh_con_GitHub.md](01-Autenticazione_ssh_con_GitHub.md)
+
+- Configurazione della coppia di chiavi e registrazione su GitHub
+- Verifica della connessione dal PC o da Web4Student
+- Pubblicazione di due commit tramite un remoto SSH
+
 ### 01 - GitHub Explorer Challenge
 **File**: `01-github-explorer.md`
 - Esplorazione guidata di repository popolari

@@ -36,12 +36,12 @@ Saprai gestire merge complessi e scegliere la strategia appropriata per mantener
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Tipi di Merge](./guide/01-tipi-merge.md)
-2. [02 - Fast-Forward Merge](./guide/02-fast-forward.md)
-3. [03 - Recursive Merge](./guide/03-recursive-merge.md)
-4. [04 - Squash Merge](./guide/04-squash-merge.md)
-5. [05 - Merge vs Rebase](./guide/05-merge-vs-rebase.md)
-6. [06 - Strategie Avanzate](./guide/06-strategie-avanzate.md)
+1. [01 - Tipi di Merge](./01-tipi-merge.md)
+2. [02 - Fast-Forward Merge](./02-fast-forward.md)
+3. [03 - Recursive Merge](./03-recursive-merge.md)
+4. [04 - Squash Merge](./04-squash-merge.md)
+5. [05 - Merge vs Rebase](./05-merge-vs-rebase.md)
+6. [06 - Strategie Avanzate](./06-strategie-avanzate.md)
 
 ### Esempi Pratici
 1. [01 - Merge Semplice](./esempi/01-merge-semplice.md)

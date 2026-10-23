@@ -696,7 +696,7 @@ Alla fine di questo workshop dovresti avere:
 ## Risorse Aggiuntive
 
 - [Conventional Commits Specification](https://www.conventionalcommits.org/)
-- [Guida 05: Conventional Commits](../guide/05-conventional-commits.md)
+- [Guida 05: Conventional Commits](../05-conventional-commits.md)
 - [Esempio 03: Automazione Commit](../esempi/03-automazione-commit.md)
 
 ---

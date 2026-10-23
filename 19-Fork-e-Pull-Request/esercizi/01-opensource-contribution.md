@@ -816,7 +816,7 @@ git push --force-with-lease origin your-feature-branch
 - [🏠 Modulo 19 - Fork e Pull Request](../README.md)
 - [➡️ Esercizio 02 - PR Management](./02-pr-management.md)
 - [📚 Esempi Pratici](../esempi/)
-- [📖 Guide Teoriche](../guide/)
+- [📖 Guide Teoriche](../)
 
 ---
 

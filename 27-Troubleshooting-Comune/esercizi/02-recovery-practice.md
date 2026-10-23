@@ -1002,7 +1002,7 @@ echo "✅ Recovery assessment report created"
 - [🏠 Modulo 27 - Troubleshooting Comune](../README.md)
 - [⬅️ Esercizio 01 - Problem Simulation](./01-problem-simulation.md)
 - [📚 Esempi Pratici](../esempi/)
-- [📖 Guide Teoriche](../guide/)
+- [📖 Guide Teoriche](../)
 
 ---
 

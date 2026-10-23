@@ -23,19 +23,19 @@ cd 24-Rebase-e-Cherry-Pick
 ### 2. 📚 **Studio delle Guide** (30-45 minuti)
 Studia le guide teoriche nell'ordine:
 
-1. **[Rebase Fundamentals](./guide/01-rebase-fundamentals.md)**
+1. **[Rebase Fundamentals](./01-rebase-fundamentals.md)**
    - Concetti base e differenze con merge
    - Quando usare rebase vs merge
 
-2. **[Interactive Rebase](./guide/02-interactive-rebase.md)**
+2. **[Interactive Rebase](./02-interactive-rebase.md)**
    - Operazioni avanzate: squash, fixup, reword, drop
    - Cleanup professionale della cronologia
 
-3. **[Cherry-Pick Guide](./guide/03-cherry-pick-guide.md)**
+3. **[Cherry-Pick Guide](./03-cherry-pick-guide.md)**
    - Applicazione selettiva di commit
    - Gestione hotfix e backporting
 
-4. **[Rebase vs Merge](./guide/04-rebase-vs-merge.md)**
+4. **[Rebase vs Merge](./04-rebase-vs-merge.md)**
    - Analisi comparativa dettagliata
    - Decision framework per team
 

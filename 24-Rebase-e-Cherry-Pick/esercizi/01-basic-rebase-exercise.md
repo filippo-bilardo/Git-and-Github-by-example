@@ -153,5 +153,5 @@ Una volta completato l'esercizio base, prova a:
 
 ## 📚 Riferimenti
 
-- [Guida al Rebase Fundamentals](../guide/01-rebase-fundamentals.md)
+- [Guida al Rebase Fundamentals](../01-rebase-fundamentals.md)
 - [Esempio Pratico Simple Rebase](../esempi/01-simple-rebase.md)

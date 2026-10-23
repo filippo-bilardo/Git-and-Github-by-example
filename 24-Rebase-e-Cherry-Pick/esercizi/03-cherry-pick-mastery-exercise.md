@@ -632,6 +632,6 @@ done
 
 ## 📚 Riferimenti
 
-- [Guida Cherry-Pick](../guide/03-cherry-pick-guide.md)
-- [Rebase vs Merge](../guide/04-rebase-vs-merge.md)
+- [Guida Cherry-Pick](../03-cherry-pick-guide.md)
+- [Rebase vs Merge](../04-rebase-vs-merge.md)
 - [Esempi Pratici](../esempi/)

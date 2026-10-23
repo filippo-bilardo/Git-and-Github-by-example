@@ -35,11 +35,11 @@ Padroneggerai l'area di staging per creare commit precisi e ben organizzati, mig
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Concetto di Staging Area](./guide/01-concetto-staging.md)
-2. [02 - Working Directory vs Staging vs Repository](./guide/02-tre-aree-git.md)
-3. [03 - Git Add Avanzato](./guide/03-git-add-avanzato.md)
-4. [04 - Git Reset e Staging](./guide/04-git-reset-staging.md)
-5. [05 - Staging Interattivo](./guide/05-staging-interattivo.md)
+1. [01 - Concetto di Staging Area](./01-concetto-staging.md)
+2. [02 - Working Directory vs Staging vs Repository](./02-tre-aree-git.md)
+3. [03 - Git Add Avanzato](./03-git-add-avanzato.md)
+4. [04 - Git Reset e Staging](./04-git-reset-staging.md)
+5. [05 - Staging Interattivo](./05-staging-interattivo.md)
 
 ### Esempi Pratici
 1. [01 - Staging Selettivo](./esempi/01-staging-selettivo.md)

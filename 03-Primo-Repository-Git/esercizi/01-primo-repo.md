@@ -539,6 +539,6 @@ Dopo aver completato questo esercizio:
 
 ## Navigazione del Corso
 - [📑 Indice](../README.md)
-- [📚 Guide Teoriche](../guide/README.md)
+- [📚 Guide Teoriche](../README.md)
 - [💡 Esempi](../esempi/README.md)
 - [➡️ Esercizio Successivo](02-gestione-stati-file.md)

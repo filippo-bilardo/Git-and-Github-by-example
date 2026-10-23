@@ -31,10 +31,10 @@ Al termine avrai padronanza completa della gestione di file e directory in Git, 
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [📖 Tracciamento File e Directory](./guide/01-tracciamento-file.md)
-2. [📖 Rinominare e Spostare File](./guide/02-rinominare-spostare.md)
-3. [📖 Eliminazione File e Directory](./guide/03-eliminazione-file.md)
-4. [📖 Gestione Directory Vuote](./guide/04-directory-vuote.md)
+1. [📖 Tracciamento File e Directory](./01-tracciamento-file.md)
+2. [📖 Rinominare e Spostare File](./02-rinominare-spostare.md)
+3. [📖 Eliminazione File e Directory](./03-eliminazione-file.md)
+4. [📖 Gestione Directory Vuote](./04-directory-vuote.md)
 
 ### Esempi Pratici
 1. [💻 Aggiunta e Rimozione File](./esempi/01-aggiunta-rimozione.md)

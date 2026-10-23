@@ -36,12 +36,12 @@ Avrai confidenza nella risoluzione di conflitti e saprai utilizzare sia strument
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Cosa Sono i Conflitti](./guide/01-cosa-sono-conflitti.md)
-2. [02 - Marker di Conflitto](./guide/02-marker-conflitto.md)
-3. [03 - Risoluzione Manuale](./guide/03-risoluzione-manuale.md)
-4. [04 - Merge Tools](./guide/04-merge-tools.md)
-5. [05 - Prevenzione Conflitti](./guide/05-prevenzione-conflitti.md)
-6. [06 - Strategie Avanzate](./guide/06-strategie-avanzate.md)
+1. [01 - Cosa Sono i Conflitti](./01-cosa-sono-conflitti.md)
+2. [02 - Marker di Conflitto](./02-marker-conflitto.md)
+3. [03 - Risoluzione Manuale](./03-risoluzione-manuale.md)
+4. [04 - Merge Tools](./04-merge-tools.md)
+5. [05 - Prevenzione Conflitti](./05-prevenzione-conflitti.md)
+6. [06 - Strategie Avanzate](./06-strategie-avanzate.md)
 
 ### Esempi Pratici
 1. [01 - Conflitto Semplice](./esempi/01-conflitto-semplice.md)

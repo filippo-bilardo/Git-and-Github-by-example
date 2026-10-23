@@ -1058,7 +1058,7 @@ echo "📊 Project ready for continued development"
 
 1. **[Feature Collaboration →](02-feature-collaboration.md)** - Lavorare insieme su feature complesse
 2. **[Issue Management →](03-issue-management.md)** - Gestire bug e richieste del team
-3. **[Conflict Resolution →](../guide/05-conflict-resolution.md)** - Risolvere conflitti collaborativi
+3. **[Conflict Resolution →](../05-conflict-resolution.md)** - Risolvere conflitti collaborativi
 
 ---
 

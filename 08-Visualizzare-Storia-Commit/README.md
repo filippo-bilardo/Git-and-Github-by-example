@@ -35,12 +35,12 @@ Sarai in grado di navigare efficacemente nella cronologia di qualsiasi repositor
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Git Log Fondamentali](./guide/01-git-log-fondamentali.md)
-2. [02 - Opzioni di Formattazione](./guide/02-opzioni-formattazione.md)
-3. [03 - Filtri e Ricerche](./guide/03-filtri-ricerche.md)
-4. [04 - Git Show e Dettagli](./guide/04-git-show-dettagli.md)
-5. [05 - Alias e Personalizzazione](./guide/05-alias-personalizzazione.md)
-6. [06 - Strumenti Grafici](./guide/06-strumenti-grafici.md)
+1. [01 - Git Log Fondamentali](./01-git-log-fondamentali.md)
+2. [02 - Opzioni di Formattazione](./02-opzioni-formattazione.md)
+3. [03 - Filtri e Ricerche](./03-filtri-ricerche.md)
+4. [04 - Git Show e Dettagli](./04-git-show-dettagli.md)
+5. [05 - Alias e Personalizzazione](./05-alias-personalizzazione.md)
+6. [06 - Strumenti Grafici](./06-strumenti-grafici.md)
 
 ### Esempi Pratici
 1. [01 - Log Base e Formattazione](./esempi/01-log-base-formattazione.md)

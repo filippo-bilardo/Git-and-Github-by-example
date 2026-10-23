@@ -30,10 +30,10 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - GitHub Pages Setup](./guide/01-pages-setup.md)
-2. [02 - Jekyll Basics](./guide/02-jekyll-basics.md)
-3. [03 - Documentation Best Practices](./guide/03-documentation-practices.md)
-4. [04 - Custom Domains](./guide/04-custom-domains.md)
+1. [01 - GitHub Pages Setup](./01-pages-setup.md)
+2. [02 - Jekyll Basics](./02-jekyll-basics.md)
+3. [03 - Documentation Best Practices](./03-documentation-practices.md)
+4. [04 - Custom Domains](./04-custom-domains.md)
 
 ### Esempi Pratici
 1. [01 - Portfolio Site](./esempi/01-portfolio-site.md)

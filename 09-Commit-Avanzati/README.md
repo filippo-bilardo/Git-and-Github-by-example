@@ -34,11 +34,11 @@ Sarai in grado di gestire i commit come un professionista, mantenendo una cronol
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Commit Amend](./guide/01-commit-amend.md)
-2. [02 - Reset vs Revert](./guide/02-reset-vs-revert.md)
-3. [03 - Messaggi di Commit Professionali](./guide/03-messaggi-commit.md)
-4. [04 - Commit Atomici](./guide/04-commit-atomici.md)
-5. [05 - Conventional Commits](./guide/05-conventional-commits.md)
+1. [01 - Commit Amend](./01-commit-amend.md)
+2. [02 - Reset vs Revert](./02-reset-vs-revert.md)
+3. [03 - Messaggi di Commit Professionali](./03-messaggi-commit.md)
+4. [04 - Commit Atomici](./04-commit-atomici.md)
+5. [05 - Conventional Commits](./05-conventional-commits.md)
 
 ### Esempi Pratici
 1. [01 - Correggere Errori nei Commit](./esempi/01-correzione-errori.md)

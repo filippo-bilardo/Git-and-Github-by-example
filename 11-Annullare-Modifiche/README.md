@@ -36,12 +36,12 @@ Avrai confidenza nel correggere errori e annullare modifiche senza paura di perd
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Tipi di Annullamenti](./guide/01-tipi-annullamenti.md)
-2. [02 - Git Restore (Moderno)](./guide/02-git-restore.md)
-3. [03 - Git Reset Spiegato](./guide/03-git-reset.md)
-4. [04 - Git Revert vs Reset](./guide/04-revert-vs-reset.md)
-5. [05 - Modificare Commit (Amend)](./guide/05-modificare-commit.md)
-6. [06 - Recupero File](./guide/06-recupero-file.md)
+1. [01 - Tipi di Annullamenti](./01-tipi-annullamenti.md)
+2. [02 - Git Restore (Moderno)](./02-git-restore.md)
+3. [03 - Git Reset Spiegato](./03-git-reset.md)
+4. [04 - Git Revert vs Reset](./04-revert-vs-reset.md)
+5. [05 - Modificare Commit (Amend)](./05-modificare-commit.md)
+6. [06 - Recupero File](./06-recupero-file.md)
 
 ### Esempi Pratici
 1. [01 - Annullamenti Base](./esempi/01-annullamenti-base.md)

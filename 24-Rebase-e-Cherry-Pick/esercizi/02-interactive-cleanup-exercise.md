@@ -415,6 +415,6 @@ Una volta completato l'esercizio base:
 
 ## 📚 Riferimenti
 
-- [Guida Interactive Rebase](../guide/02-interactive-rebase.md)
+- [Guida Interactive Rebase](../02-interactive-rebase.md)
 - [Esempio Interactive Cleanup](../esempi/02-interactive-cleanup.md)
-- [Rebase vs Merge](../guide/04-rebase-vs-merge.md)
+- [Rebase vs Merge](../04-rebase-vs-merge.md)

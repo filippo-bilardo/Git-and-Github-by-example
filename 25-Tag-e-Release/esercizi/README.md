@@ -45,9 +45,9 @@ Al termine di questi esercizi sarai in grado di:
 
 ## 📚 Risorse Aggiuntive
 
-- [Semantic Versioning Guide](../guide/02-semantic-versioning.md)
-- [GitHub Releases Guide](../guide/03-github-releases.md)
-- [Release Automation Guide](../guide/04-release-automation.md)
+- [Semantic Versioning Guide](../02-semantic-versioning.md)
+- [GitHub Releases Guide](../03-github-releases.md)
+- [Release Automation Guide](../04-release-automation.md)
 - [Esempi Pratici](../esempi/)
 
 ## 🤝 Supporto
@@ -55,7 +55,7 @@ Al termine di questi esercizi sarai in grado di:
 Se incontri problemi durante gli esercizi:
 1. Consulta la [documentazione ufficiale Git](https://git-scm.com/docs)
 2. Verifica la [documentazione GitHub](https://docs.github.com)
-3. Rivedi i concetti nelle [guide teoriche](../guide/)
+3. Rivedi i concetti nelle [guide teoriche](../)
 
 ---
 

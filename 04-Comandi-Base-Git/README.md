@@ -36,12 +36,12 @@ Avrai padronanza dei comandi Git essenziali e saprai gestire efficacemente il wo
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Git Status e Monitoraggio](./guide/01-git-status.md)
-2. [02 - Git Add e Staging Area](./guide/02-git-add.md)
-3. [03 - Git Commit e Messaggi](./guide/03-git-commit.md)
-4. [04 - Git Log e Cronologia](./guide/04-git-log.md)
-5. [05 - Git Diff e Differenze](./guide/05-git-diff.md)
-6. [06 - Gestione File (rm, mv)](./guide/06-gestione-file.md)
+1. [01 - Git Status e Monitoraggio](./01-git-status.md)
+2. [02 - Git Add e Staging Area](./02-git-add.md)
+3. [03 - Git Commit e Messaggi](./03-git-commit.md)
+4. [04 - Git Log e Cronologia](./04-git-log.md)
+5. [05 - Git Diff e Differenze](./05-git-diff.md)
+6. [06 - Gestione File (rm, mv)](./06-gestione-file.md)
 
 ### Esempi Pratici
 1. [01 - Workflow Completo](./esempi/01-workflow-completo.md)

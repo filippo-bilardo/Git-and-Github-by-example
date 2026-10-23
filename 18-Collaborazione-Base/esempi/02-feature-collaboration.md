@@ -1616,8 +1616,8 @@ echo "📱 Waiting for Marco (mobile) and Lisa (testing)..."
 ## 🔗 Prossimi Passi
 
 1. **[Issue Management →](03-issue-management.md)** - Gestire bug e feature requests
-2. **[Mobile Integration →](../guide/03-mobile-collaboration.md)** - Coordinare sviluppo mobile
-3. **[Security Testing →](../guide/04-security-collaboration.md)** - Validazione sicurezza
+2. **[Mobile Integration →](../03-mobile-collaboration.md)** - Coordinare sviluppo mobile
+3. **[Security Testing →](../04-security-collaboration.md)** - Validazione sicurezza
 
 ---
 

@@ -325,5 +325,5 @@ Crea 1000 file e testa la performance di Git con e senza `.gitignore` appropriat
 ## 🧭 Navigazione del Corso
 
 - [📑 Indice](../README.md)
-- [⬅️ Guida File Tracking](../guide/02-file-tracking.md)
+- [⬅️ Guida File Tracking](../02-file-tracking.md)
 - [➡️ Esercizio Pattern Avanzati](02-pattern-avanzati.md)

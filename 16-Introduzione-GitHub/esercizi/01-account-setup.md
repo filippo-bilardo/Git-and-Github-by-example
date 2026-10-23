@@ -1,4 +1,4 @@
-# Esercizio: Setup Account GitHub
+# Setup Account GitHub
 
 ## Obiettivo
 Completare la configurazione di un account GitHub professionale con tutte le impostazioni necessarie per un utilizzo ottimale.

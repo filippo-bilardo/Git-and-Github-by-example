@@ -454,4 +454,4 @@ Al completamento dovresti aver ottenuto:
 - [📑 Indice](../README.md)
 - [⬅️ Esercizio Precedente](01-primo-repo.md)
 - [➡️ Esercizio Successivo](03-commit-messages.md)
-- [📚 Guide Teoriche](../guide/README.md)
+- [📚 Guide Teoriche](../README.md)

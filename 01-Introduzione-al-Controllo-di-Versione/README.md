@@ -30,10 +30,10 @@ Al termine avrai una comprensione solida dei concetti teorici che stanno alla ba
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Cos'è il Controllo di Versione](./guide/01-controllo-versione.md)
-2. [02 - Storia e Evoluzione](./guide/02-storia-evoluzione.md)
-3. [03 - Git vs Altri Sistemi](./guide/03-git-vs-altri.md)
-4. [04 - Concetti Fondamentali](./guide/04-concetti-fondamentali.md)
+1. [01 - Cos'è il Controllo di Versione](./01-controllo-versione.md)
+2. [02 - Storia e Evoluzione](./02-storia-evoluzione.md)
+3. [03 - Git vs Altri Sistemi](./03-git-vs-altri.md)
+4. [04 - Concetti Fondamentali](./04-concetti-fondamentali.md)
 
 ### Esempi Pratici
 1. [01 - Scenario senza Controllo Versione](./esempi/01-scenario-senza-vcs.md)

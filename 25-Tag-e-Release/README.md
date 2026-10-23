@@ -30,10 +30,10 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Git Tags](./guide/01-git-tags.md)
-2. [02 - Semantic Versioning](./guide/02-semantic-versioning.md)
-3. [03 - GitHub Releases](./guide/03-github-releases.md)
-4. [04 - Release Automation](./guide/04-release-automation.md)
+1. [01 - Git Tags](./01-git-tags.md)
+2. [02 - Semantic Versioning](./02-semantic-versioning.md)
+3. [03 - GitHub Releases](./03-github-releases.md)
+4. [04 - Release Automation](./04-release-automation.md)
 
 ### Esempi Pratici
 1. [01 - First Release](./esempi/01-first-release.md)

@@ -356,7 +356,7 @@ git merge feature/my-feature --no-ff --no-commit
 ## 🔗 Prossimi Passi
 
 - [03 - Pianificazione Strategica](./03-pianificazione-strategica.md)
-- [Guida: Strategie di Branching](../guide/05-strategie-branching.md)
+- [Guida: Strategie di Branching](../05-strategie-branching.md)
 
 ---
 

@@ -779,4 +779,4 @@ Al completamento dovresti aver acquisito:
 - [📑 Indice](../README.md)
 - [⬅️ Esercizio Precedente](02-gestione-stati-file.md)
 - [➡️ Modulo Successivo](../../04-Comandi-Base-Git/README.md)
-- [📚 Guide Teoriche](../guide/README.md)
+- [📚 Guide Teoriche](../README.md)

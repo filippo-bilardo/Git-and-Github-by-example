@@ -30,10 +30,10 @@ Al termine di questa esercitazione sarai in grado di:
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Fork Workflow](./guide/01-fork-workflow.md)
-2. [02 - Pull Request Lifecycle](./guide/02-pull-request-lifecycle.md)
-3. [03 - Code Review](./guide/03-code-review.md)
-4. [04 - Upstream Sync](./guide/04-upstream-sync.md)
+1. [01 - Fork Workflow](./01-fork-workflow.md)
+2. [02 - Pull Request Lifecycle](./02-pull-request-lifecycle.md)
+3. [03 - Code Review](./03-code-review.md)
+4. [04 - Upstream Sync](./04-upstream-sync.md)
 
 ### Esempi Pratici
 1. [01 - First Fork](./esempi/01-first-fork.md)

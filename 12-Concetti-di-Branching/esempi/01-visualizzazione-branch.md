@@ -226,7 +226,7 @@ Dopo questo esempio dovresti:
 
 Ora che comprendi come visualizzare i branch, sei pronto per:
 - [02 - Scenari di Branching](./02-scenari-branching.md)
-- [Guida: Creazione e Gestione Branch](../guide/03-head-puntatori.md)
+- [Guida: Creazione e Gestione Branch](../03-head-puntatori.md)
 
 ---
 

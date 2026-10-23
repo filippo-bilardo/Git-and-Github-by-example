@@ -36,12 +36,12 @@ Avrai un account GitHub configurato correttamente e comprenderai come GitHub est
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Cos'è GitHub](./guide/01-cos-e-github.md)
-2. [02 - Account e Configurazione](./guide/02-account-configurazione.md)
-3. [03 - Interfaccia Web](./guide/03-interfaccia-web.md)
-4. [04 - Repository su GitHub](./guide/04-repository-github.md)
-5. [05 - Autenticazione SSH](./guide/05-autenticazione-ssh.md)
-6. [06 - Ecosistema GitHub](./guide/06-ecosistema-github.md)
+1. [01 - Cos'è GitHub](./01-cos-e-github.md)
+2. [02 - Account e Configurazione](./02-account-configurazione.md)
+3. [03 - Interfaccia Web](./03-interfaccia-web.md)
+4. [04 - Repository su GitHub](./04-repository-github.md)
+5. [05 - Autenticazione SSH](./05-autenticazione-ssh.md)
+6. [06 - Ecosistema GitHub](./06-ecosistema-github.md)
 
 ### Esempi Pratici
 1. [01 - Setup Account](./esempi/01-setup-account.md)
@@ -51,8 +51,9 @@ Avrai un account GitHub configurato correttamente e comprenderai come GitHub est
 
 ### Esercizi di Consolidamento
 1. [01 - Account Setup](./esercizi/01-account-setup.md)
-2. [02 - Repository Creation](./esercizi/02-repository-creation.md)
-3. [03 - Platform Exploration](./esercizi/03-platform-exploration.md)
+2. [01 - Autenticazione SSH con GitHub](./esercizi/01-Autenticazione_ssh_con_GitHub.md)
+3. [02 - Repository Creation](./esercizi/02-repository-creation.md)
+4. [03 - Platform Exploration](./esercizi/03-platform-exploration.md)
 
 ## 🚀 Come Procedere
 

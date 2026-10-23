@@ -1334,6 +1334,6 @@ Questi esempi mostrano implementazioni complete e realistiche di diversi workflo
 
 🏠 **Home**: [Indice Generale](../README.md)
 
-⬅️ **Precedente**: [Guide Teoriche](../guide/README.md)
+⬅️ **Precedente**: [Guide Teoriche](../README.md)
 
 ➡️ **Successivo**: [Esercizi Pratici](../esercizi/README.md)

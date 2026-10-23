@@ -782,6 +782,6 @@ Con questa configurazione di testing automation avanzata:
 
 1. **[Deploy Automation](./03-deploy-automation.md)** - Deployment strategies
 2. **[Esercizi Custom](../esercizi/02-custom-workflow.md)** - Crea i tuoi workflow
-3. **[Monitoring Integration](../../23-Git-Flow-e-Strategie/guide/03-advanced-workflow-automation.md)** - Monitoring avanzato
+3. **[Monitoring Integration](../../23-Git-Flow-e-Strategie/03-advanced-workflow-automation.md)** - Monitoring avanzato
 
 Il tuo testing automation è ora enterprise-ready! 🧪🚀

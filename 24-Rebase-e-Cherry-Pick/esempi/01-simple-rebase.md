@@ -1219,7 +1219,7 @@ main "$@"
 
 ## 🔄 Navigazione
 
-**Precedente**: [04 - Rebase vs Merge](../guide/04-rebase-vs-merge.md)  
+**Precedente**: [04 - Rebase vs Merge](../04-rebase-vs-merge.md)  
 **Successivo**: [02 - Interactive Cleanup](./02-interactive-cleanup.md)  
 **Indice**: [README del modulo](../README.md)
 

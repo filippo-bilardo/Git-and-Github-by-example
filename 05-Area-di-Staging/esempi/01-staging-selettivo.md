@@ -377,7 +377,7 @@ Aggiungi anche:
 ## 📱 Navigazione
 
 - [📑 Indice Modulo](../README.md)
-- [⬅️ Guide Teoriche](../guide/04-workflow-staging.md)
+- [⬅️ Guide Teoriche](../04-workflow-staging.md)
 - [➡️ Prossimo Esempio](./02-gestione-conflitti-staging.md)
 
 ---

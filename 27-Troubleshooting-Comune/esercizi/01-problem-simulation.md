@@ -442,5 +442,5 @@ git reflog > ../reflog-backup.txt
 ## 🧭 Navigazione del Corso
 
 - [📑 Indice](../README.md)
-- [⬅️ Recovery Strategies](../guide/02-recovery-strategies.md)
+- [⬅️ Recovery Strategies](../02-recovery-strategies.md)
 - [➡️ Recovery Practice](02-recovery-practice.md)

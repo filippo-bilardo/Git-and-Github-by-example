@@ -505,7 +505,7 @@ git stash push -m "msg"   # Salva lavoro temporaneo
 ## 🔄 Navigazione
 
 - [🏠 Modulo 09](../README.md)
-- [📚 Guide](../guide/01-concetti-navigazione.md)
+- [📚 Guide](../01-concetti-navigazione.md)
 - [➡️ 02 - Debug Temporale](./02-debug-temporale.md)
 - [📑 Indice Corso](../../README.md)
 

@@ -8,7 +8,7 @@ Guida step-by-step per installare e configurare Git su Windows con tutti i tool 
 
 - Windows 10/11
 - Connessione internet
-- Diritti di amministratore (per installazione)
+- Diritti di amministratore soltanto per l'installazione per tutti gli utenti descritta qui; con un account standard segui l'[esempio senza amministratore](05-setup-windows-senza-amministratore.md)
 
 ## ⏱️ Tempo Richiesto
 

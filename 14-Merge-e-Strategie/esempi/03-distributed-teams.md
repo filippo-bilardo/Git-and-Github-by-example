@@ -1223,8 +1223,8 @@ cd ..
 
 ### Documentation Links
 
-- [01-Tipi Merge](../guide/01-tipi-merge.md) - Fondamenti per team distribuiti
-- [05-Merge vs Rebase](../guide/05-merge-vs-rebase.md) - Strategie per coordinazione globale
+- [01-Tipi Merge](../01-tipi-merge.md) - Fondamenti per team distribuiti
+- [05-Merge vs Rebase](../05-merge-vs-rebase.md) - Strategie per coordinazione globale
 - [Workflow Completo](./01-merge-workflow.md) - Preparazione per ambiente distribuito
 
 ### Tools per Team Distribuiti

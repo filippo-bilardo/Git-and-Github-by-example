@@ -159,7 +159,7 @@ Dopo questa esplorazione dovresti:
 
 Ora che conosci l'interfaccia, è il momento di:
 - [Creare il tuo primo repository](02-primo-repository.md)
-- Tornare alle [guide teoriche](../guide/) per approfondimenti
+- Tornare alle [guide teoriche](../) per approfondimenti
 - Procedere agli [esercizi pratici](../esercizi/)
 
 ---

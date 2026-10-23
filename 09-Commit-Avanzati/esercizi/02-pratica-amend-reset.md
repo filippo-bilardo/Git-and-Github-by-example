@@ -356,8 +356,8 @@ cat utils.js
 
 ## Risorse per Approfondimento
 
-- [Guida 01: Commit Amend](../guide/01-commit-amend.md)
-- [Guida 02: Reset vs Revert](../guide/02-reset-vs-revert.md)
+- [Guida 01: Commit Amend](../01-commit-amend.md)
+- [Guida 02: Reset vs Revert](../02-reset-vs-revert.md)
 - [Esempio 01: Correzione Errori](../esempi/01-correzione-errori.md)
 
 ## Troubleshooting Comune

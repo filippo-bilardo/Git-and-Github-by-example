@@ -40,11 +40,11 @@ h7i8j9k Initial commit: struttura base progetto
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Inizializzare Repository](./guide/01-inizializzare-repository.md)
-2. [02 - Anatomia Directory Git](./guide/02-anatomia-directory-git.md)
-3. [03 - Stati dei File](./guide/03-stati-file.md)
-4. [04 - Primo Commit](./guide/04-primo-commit.md)
-5. [05 - Visualizzare Cronologia](./guide/05-visualizzare-cronologia.md)
+1. [01 - Inizializzare Repository](./01-inizializzare-repository.md)
+2. [02 - Anatomia Directory Git](./02-anatomia-directory-git.md)
+3. [03 - Stati dei File](./03-stati-file.md)
+4. [04 - Primo Commit](./04-primo-commit.md)
+5. [05 - Visualizzare Cronologia](./05-visualizzare-cronologia.md)
 
 ### Esempi Pratici
 1. [01 - Progetto Sito Web](./esempi/01-progetto-sito-web.md)

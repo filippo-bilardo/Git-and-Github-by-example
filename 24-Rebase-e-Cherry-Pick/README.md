@@ -33,10 +33,10 @@ Rebase modifica la cronologia Git. Mai usare su branch condivisi!
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Rebase Fundamentals](./guide/01-rebase-fundamentals.md)
-2. [02 - Interactive Rebase](./guide/02-interactive-rebase.md)
-3. [03 - Cherry-Pick Guide](./guide/03-cherry-pick-guide.md)
-4. [04 - Rebase vs Merge](./guide/04-rebase-vs-merge.md)
+1. [01 - Rebase Fundamentals](./01-rebase-fundamentals.md)
+2. [02 - Interactive Rebase](./02-interactive-rebase.md)
+3. [03 - Cherry-Pick Guide](./03-cherry-pick-guide.md)
+4. [04 - Rebase vs Merge](./04-rebase-vs-merge.md)
 
 ### Esempi Pratici
 1. [01 - Simple Rebase](./esempi/01-simple-rebase.md)

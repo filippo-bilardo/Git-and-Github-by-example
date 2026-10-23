@@ -450,5 +450,5 @@ Hai imparato a:
 
 ## Navigazione
 - [📑 Indice](../README.md)
-- [⬅️ Guide teoriche](../guide/01-introduzione-gitignore.md)
+- [⬅️ Guide teoriche](../01-introduzione-gitignore.md)
 - [➡️ Prossimo esercizio](02-pattern-avanzati.md)

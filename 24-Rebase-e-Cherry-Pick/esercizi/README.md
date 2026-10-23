@@ -211,10 +211,10 @@ Dopo aver completato tutti gli esercizi, considera questi progetti:
 ## 📚 Risorse Aggiuntive
 
 ### Guide di Riferimento
-- [Rebase Fundamentals](../guide/01-rebase-fundamentals.md)
-- [Interactive Rebase](../guide/02-interactive-rebase.md)  
-- [Cherry-Pick Guide](../guide/03-cherry-pick-guide.md)
-- [Rebase vs Merge](../guide/04-rebase-vs-merge.md)
+- [Rebase Fundamentals](../01-rebase-fundamentals.md)
+- [Interactive Rebase](../02-interactive-rebase.md)  
+- [Cherry-Pick Guide](../03-cherry-pick-guide.md)
+- [Rebase vs Merge](../04-rebase-vs-merge.md)
 
 ### Esempi Pratici
 - [Simple Rebase Example](../esempi/01-simple-rebase.md)

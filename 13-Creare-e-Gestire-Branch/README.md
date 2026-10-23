@@ -36,12 +36,12 @@ Padroneggerai completamente la gestione dei branch e sarai pronto per implementa
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Creazione Branch](./guide/01-creazione-branch.md)
-2. [02 - Navigazione tra Branch](./guide/02-navigazione-branch.md)
-3. [03 - Gestione Branch](./guide/03-gestione-branch.md)
-4. [04 - Branch Remoti](./guide/04-branch-remoti.md)
-5. [05 - Best Practices](./guide/05-best-practices.md)
-6. [06 - Troubleshooting](./guide/06-troubleshooting.md)
+1. [01 - Creazione Branch](./01-creazione-branch.md)
+2. [02 - Navigazione tra Branch](./02-navigazione-branch.md)
+3. [03 - Gestione Branch](./03-gestione-branch.md)
+4. [04 - Branch Remoti](./04-branch-remoti.md)
+5. [05 - Best Practices](./05-best-practices.md)
+6. [06 - Troubleshooting](./06-troubleshooting.md)
 
 ### Esempi Pratici
 1. [01 - Branch Feature](./esempi/01-branch-feature.md)

@@ -368,9 +368,9 @@ echo "Hotfixes applied: $(git log --merges --grep="fix" --oneline | wc -l)"
 
 ## 📚 Riferimenti
 
-- [02-Fast Forward](../guide/02-fast-forward.md) - Dettagli su merge lineari
-- [03-Recursive Merge](../guide/03-recursive-merge.md) - Gestione conflitti
-- [04-Squash Merge](../guide/04-squash-merge.md) - Pulizia storia
+- [02-Fast Forward](../02-fast-forward.md) - Dettagli su merge lineari
+- [03-Recursive Merge](../03-recursive-merge.md) - Gestione conflitti
+- [04-Squash Merge](../04-squash-merge.md) - Pulizia storia
 
 ---
 

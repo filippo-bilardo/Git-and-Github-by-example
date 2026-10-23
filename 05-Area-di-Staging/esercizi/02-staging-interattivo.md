@@ -711,7 +711,7 @@ Al completamento di questo esercizio avrai:
 ## 🔄 Prossimi Passi
 
 - [03-Progetto Multi-File](./03-progetto-multi-file.md) - Applica le competenze a progetti reali
-- [../guide/05-staging-interattivo.md](../guide/05-staging-interattivo.md) - Approfondimenti teorici
+- [../05-staging-interattivo.md](../05-staging-interattivo.md) - Approfondimenti teorici
 
 ---
 

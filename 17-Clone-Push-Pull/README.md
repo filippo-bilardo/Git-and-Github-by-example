@@ -37,13 +37,13 @@ Padroneggerai la sincronizzazione tra repository locali e remoti, base essenzial
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Git Clone](./guide/01-git-clone.md)
-2. [02 - Remote Repository](./guide/02-remote-repository.md)
-3. [03 - Git Push](./guide/03-git-push.md)
-4. [04 - Git Pull vs Fetch](./guide/04-pull-vs-fetch.md)
-5. [05 - Branch Tracking](./guide/05-branch-tracking.md)
-6. [06 - Git Submodules](./guide/06-git-submodules.md)
-7. [07 - Git Subtree](./guide/07-git-subtree.md)
+1. [01 - Git Clone](./01-git-clone.md)
+2. [02 - Remote Repository](./02-remote-repository.md)
+3. [03 - Git Push](./03-git-push.md)
+4. [04 - Git Pull vs Fetch](./04-pull-vs-fetch.md)
+5. [05 - Branch Tracking](./05-branch-tracking.md)
+6. [06 - Git Submodules](./06-git-submodules.md)
+7. [07 - Git Subtree](./07-git-subtree.md)
 
 ### Esempi Pratici
 1. [01 - Clone e Setup](./esempi/01-clone-setup.md)

@@ -811,6 +811,6 @@ Scrivi un documento `team-git-policy.md` che definisce:
 
 ## 📚 Riferimenti
 
-- [Rebase vs Merge Guide](../guide/04-rebase-vs-merge.md)
-- [Rebase Fundamentals](../guide/01-rebase-fundamentals.md)
-- [Cherry-Pick Guide](../guide/03-cherry-pick-guide.md)
+- [Rebase vs Merge Guide](../04-rebase-vs-merge.md)
+- [Rebase Fundamentals](../01-rebase-fundamentals.md)
+- [Cherry-Pick Guide](../03-cherry-pick-guide.md)

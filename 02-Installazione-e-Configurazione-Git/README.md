@@ -9,6 +9,7 @@ Questa esercitazione ti guiderà attraverso l'installazione e la configurazione 
 Al termine di questa esercitazione sarai in grado di:
 
 - ✅ Installare Git su Windows, macOS e Linux
+- ✅ Installare Git su Windows come utente standard, configurare il PATH utente e usare Git Bash con VS Code
 - ✅ Configurare la tua identità Git (nome e email)
 - ✅ Impostare le configurazioni di base
 - ✅ Scegliere e configurare un editor di testo per Git
@@ -17,7 +18,7 @@ Al termine di questa esercitazione sarai in grado di:
 
 ## 📋 Prerequisiti
 
-- **Accesso amministratore** al tuo computer per l'installazione
+- **Permessi adeguati al metodo scelto**: su Windows è disponibile un percorso per utente standard; alcuni metodi di installazione per tutti gli utenti richiedono accesso amministratore
 - **Conoscenza base del terminale/prompt** dei comandi
 - **Aver completato** l'esercitazione precedente sui concetti base
 
@@ -34,22 +35,24 @@ Al termine avrai Git installato e configurato correttamente, pronto per iniziare
 ## 📚 Indice degli Argomenti
 
 ### Guide Teoriche
-1. [01 - Installazione su Diversi OS](./guide/01-installazione-os.md)
-2. [02 - Configurazione Identità](./guide/02-configurazione-identita.md)  
-3. [03 - Configurazioni Avanzate](./guide/03-configurazioni-avanzate.md)
-4. [04 - Editor e Tool](./guide/04-editor-tool.md)
+1. [01 - Installazione su Diversi OS](./01-installazione-os.md)
+2. [02 - Configurazione Identità](./02-configurazione-identita.md)
+3. [03 - Configurazioni Avanzate](./03-configurazioni-avanzate.md)
+4. [04 - Editor e Tool](./04-editor-tool.md)
 
 ### Esempi Pratici
 1. [01 - Setup Completo Windows](./esempi/01-setup-windows.md)
 2. [02 - Setup Completo macOS](./esempi/02-setup-macos.md)
 3. [03 - Setup Completo Linux](./esempi/03-setup-linux.md)
 4. [04 - Setup Enterprise e Professionale](./esempi/04-setup-enterprise-professionale.md) ⭐⭐⭐⭐
+5. [05 - Windows senza amministratore: Git Bash, PATH e VS Code](./esempi/05-setup-windows-senza-amministratore.md)
 
 ### Esercizi di Consolidamento
 1. [01 - Verifica Installazione](./esercizi/01-verifica-installazione.md)
 2. [02 - Configurazione Personalizzata](./esercizi/02-configurazione-personalizzata.md)
 3. [03 - Setup Ambiente Sviluppo](./esercizi/03-setup-ambiente-sviluppo.md)
 4. [04 - Troubleshooting e Ottimizzazione](./esercizi/04-troubleshooting-configurazione.md)
+5. [05 - Installazione Windows con utente standard](./esercizi/05-installazione-windows-utente-standard.md)
 
 ## 🚀 Come Procedere
 
