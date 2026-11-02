@@ -1,4 +1,4 @@
-# 01 - Cos'è il Controllo di Versione
+# 01 - Cos'è il Controllo di Versione (Version Control)
 
 ## 📖 Spiegazione Concettuale
 
